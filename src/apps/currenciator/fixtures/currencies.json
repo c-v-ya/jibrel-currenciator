@@ -1,0 +1,44 @@
+[
+  {
+    "model": "currenciator.currency",
+    "pk": 1,
+    "fields": {
+      "name": "BTC"
+    }
+  },
+  {
+    "model": "currenciator.currency",
+    "pk": 2,
+    "fields": {
+      "name": "ETH"
+    }
+  },
+  {
+    "model": "currenciator.currency",
+    "pk": 3,
+    "fields": {
+      "name": "NEO"
+    }
+  },
+  {
+    "model": "currenciator.currency",
+    "pk": 4,
+    "fields": {
+      "name": "OMG"
+    }
+  },
+  {
+    "model": "currenciator.currency",
+    "pk": 5,
+    "fields": {
+      "name": "QTM"
+    }
+  },
+  {
+    "model": "currenciator.currency",
+    "pk": 6,
+    "fields": {
+      "name": "ATM"
+    }
+  }
+]
